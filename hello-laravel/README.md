@@ -130,7 +130,7 @@ The most challenging part for me was changing and configuring the PATH variables
 
 Laravel is important in client-server development because it helps the client and the server communicate with each other in an organized and secure way. It provides a ready-made structure for building web applications, making it easier to manage data, process user requests, and connect to databases. This allows developers to build modern web applications more efficiently.
 
-I believe this knowledge will help me in my future software development projects. Laravel already has a well-organized structure, so I do not have to start every project from scratch. This saves a lot of development time and allows me to focus more on improving the system and adding new features instead of spending too much time setting up the project. Overall, learning Laravel is a good foundation for becoming a better web developer.
+I believe this knowledge will help me in my future software development projects. Laravel already has a well-organized structure, so I do not have to start every project from scratch. This saves a lot of development time and allows me to focus more on improving the system and adding new features instead of spending too much time setting up the project. Overall, learning Laravel is a good foundation for becoming a better web developer..
 
 ---
 
