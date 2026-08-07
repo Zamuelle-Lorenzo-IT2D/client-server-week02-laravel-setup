@@ -249,6 +249,11 @@
 
                     <span class="info-label">Section</span>
                     <span class="info-value">BSIT 3D</span>
+
+                    <div class="info-divider"></div>
+
+                    <span class="info-label">Subject</span>
+                    <span class="info-value">ITST 302 | Client-Server Technologies</span>
                 </div>
 
                 <div class="current-date">
